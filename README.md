@@ -18,7 +18,7 @@ A little about me:
 
 ### 📈 Stats and Languages
  
-![victorugons github stats](https://github-readme-stats.vercel.app/api?username=victorugons&theme=tokyonight&show_icons=true&border_radius=10)&nbsp;&nbsp;&nbsp;&nbsp;![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victorugons&layout=compact&theme=tokyonight&title_color=2ED3EA&border_radius=10&card_width=300)
+![victorugons github stats](https://github-readme-stats.vercel.app/api?username=victorugons&theme=tokyonight&show_icons=true&border_radius=10)&nbsp;&nbsp;&nbsp;&nbsp;![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victorugons&layout=compact&theme=tokyonight&title_color=2ED3EA&border_radius=10&card_width=250)
 
 
 <hr>
