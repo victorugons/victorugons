@@ -9,7 +9,7 @@ A little about me:
 - 😄 Pronouns: He/Him.
 - 🌎 I live in São José dos Campos - Brazil.
 - 🔭 I’m currently working with [**Pega Platform**](https://www.pega.com/products/platform) low-code app development.
-- 🌱 I’m currently diving deep into the Java Web Apps world!
+- 🌱 I’m currently learning iOS development with Swift (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
 
 ### 🛠 Tools:
