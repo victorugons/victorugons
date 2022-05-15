@@ -19,7 +19,6 @@ A little about me:
 ### 📈 Stats and Languages
  
  <div>
-  <a href="https://github.com/codecampos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorugons&theme=tokyonight&show_icons=true&border_radius=10"/>
 	  &nbsp;&nbsp;&nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorugons&layout=compact&theme=tokyonight&title_color=2ED3EA&border_radius=10&card_width=250"/>
