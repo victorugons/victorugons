@@ -8,8 +8,8 @@ A little about me:
 
 - 😄 Pronouns: He/Him.
 - 🌎 I live in São José dos Campos - Brazil.
-- 🔭 I’m currently working with [**Pega Platform**](https://www.pega.com/products/platform) low-code app development.
-- 🌱 I’m currently learning iOS development with Swift (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+- 🧑🏾‍💻 I've been working with technology for about four years now in the fields of IT Infrastructure, ITSM and Low-code development.
+- 📱 I’m currently working as an iOS Developer!
 
 
 ### 🛠 Tools:
@@ -18,9 +18,14 @@ A little about me:
 
 ### 📈 Stats and Languages
  
-![victorugons github stats](https://github-readme-stats.vercel.app/api?username=victorugons&theme=tokyonight&show_icons=true&border_radius=10)&nbsp;&nbsp;&nbsp;&nbsp;![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victorugons&layout=compact&theme=tokyonight&title_color=2ED3EA&border_radius=10&card_width=250)
-
-
+ <div>
+  <a href="https://github.com/codecampos">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=victorugons&theme=tokyonight&show_icons=true&border_radius=10"/>
+	  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorugons&layout=compact&theme=tokyonight&title_color=2ED3EA&border_radius=10&card_width=250"/>
+    
+</div>
+	
 <hr>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorugons/)
