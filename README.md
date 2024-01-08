@@ -8,8 +8,7 @@ A little about me:
 
 - 😄 Pronouns: He/Him.
 - 🌎 I live in Minas Gerais - Brazil.
-- 🧑🏾‍💻 I've been working with technology for about four years now in the fields of IT Infrastructure, ITSM and Low-code development.
-- 📱 I’m currently working as an iOS Developer!
+- 🧑🏾‍💻 I've been working with technology for about five years now in the fields of IT Infrastructure, ITSM, Low-code development and iOS Development.
 
 
 ### 🛠 Tools:
